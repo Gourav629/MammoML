@@ -28,6 +28,9 @@ conda activate thermal
 # Install requirements
 pip install torch torchvision scikit-learn matplotlib seaborn
 
+# Model Architecture 
+link : https://gist.github.com/user-attachments/assets/e2664ff8-2752-4f67-9cd6-40f9aba3a4d4
+
 🏃 Usage
 1. Train Model
 python train.py
