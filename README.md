@@ -18,7 +18,7 @@ Model saving and loading for deployment.
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/yourusername/ThermalResNet.git
+git clone https://github.com/Gourav629/ThermalResNet.git
 cd ThermalResNet
 
 # Create environment
@@ -30,6 +30,7 @@ pip install torch torchvision scikit-learn matplotlib seaborn
 
 # Model Architecture 
 link : https://gist.github.com/user-attachments/assets/e2664ff8-2752-4f67-9cd6-40f9aba3a4d4
+link : https://gist.github.com/user-attachments/assets/64942212-1bb6-4236-8e0b-2b7ac6ccaef0
 
 🏃 Usage
 1. Train Model
